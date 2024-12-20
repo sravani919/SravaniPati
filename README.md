@@ -14,16 +14,6 @@ Hello! I’m Sravani Pati, a passionate **AI Engineer, Data Scientist, Data Anal
 
 ---
 
-## 🎬 Featured Video
-<div align="center">
-<a href="https://www.youtube.com/watch?v=your-video-link" target="_blank">
-<img src="https://img.youtube.com/vi/your-video-id/maxresdefault.jpg" alt="Sravani Pati Featured Video" width="70%">
-</a>
-<p>🔗 Click the image to watch my featured video on AI Projects!</p>
-</div>
-
----
-
 ## 🚀 Skills and Expertise
 
 ### **Programming Languages**  
@@ -48,7 +38,8 @@ Hello! I’m Sravani Pati, a passionate **AI Engineer, Data Scientist, Data Anal
 ---
 
 ## 💼 Professional Experience
-### **Human-AI Empowerment Lab (Clemson University)** | *May 2024 – Present*  
+### **AI Engineer/Researcher**  
+**Human-AI Empowerment Lab (Clemson University)** | *May 2024 – Present*  
 - 🚀 Developed a **comment triage system** using GEMMA-2B and Gemini 1.5 Pro.
 - 📈 Improved feedback classification accuracy by **25%**.
 - 💻 Built scalable data pipelines on **AWS**, reducing processing time by **40%**.
@@ -79,12 +70,6 @@ Hello! I’m Sravani Pati, a passionate **AI Engineer, Data Scientist, Data Anal
 
 ### Real-Time Object Detection
 - Developed a system for visually impaired individuals using **YOLO** and **pyttsx3** with **95% accuracy**.
-
----
-
-## 📹 Watch More of My Work:
-- 🔗 [Project Walkthrough](https://www.youtube.com/watch?v=your-second-video-link)
-- 🔗 [Portfolio Demo](https://www.youtube.com/watch?v=your-third-video-link)
 
 ---
 
