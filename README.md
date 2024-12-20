@@ -41,7 +41,7 @@ With a strong foundation in **machine learning**, **statistical analysis**, and 
 
 ---
 
-## 🚀 **Key Projects**
+## 🚀 **Experience**
 
 ### 🎯 **AI-Powered Comment Triage System**  
 - 🌟 **Achievement**: Enhanced feedback classification by **25%** using GEMMA-2B and Gemini 1.5 Pro.  
