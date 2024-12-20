@@ -19,27 +19,49 @@ Hello! I’m **Sravani Pati**, a passionate **AI Engineer, Data Scientist, Data 
 
 ### **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
+![R Language](https://img.shields.io/badge/-R%20Language-blue?style=flat-square&logo=r)  
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)  
 ![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=postgresql)  
+![No-SQL](https://img.shields.io/badge/-NoSQL-green?style=flat-square&logo=mongodb)  
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  
 ![C++](https://img.shields.io/badge/-C++-blueviolet?style=flat-square&logo=cplusplus)  
 
 ### **Libraries & Frameworks**  
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat-square&logo=huggingface)  
+![Google AI Studio](https://img.shields.io/badge/-Google%20AI%20Studio-lightblue?style=flat-square&logo=google)  
+![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square&logo=pandas)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-lightblue?style=flat-square&logo=scikit-learn)  
+![Numpy](https://img.shields.io/badge/-Numpy-lightgrey?style=flat-square&logo=numpy)  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch)  
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=huggingface)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-lightblue?style=flat-square&logo=scikit-learn)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square)  
+![Flask](https://img.shields.io/badge/-Flask-lightgrey?style=flat-square&logo=flask)  
+![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)  
 
-### **Tools & Technologies**  
+### **Technologies & Tools**  
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws)  
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoftazure)  
+![ETL](https://img.shields.io/badge/-ETL-blue?style=flat-square)  
 ![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=powerbi)  
+![Snowflake](https://img.shields.io/badge/-Snowflake-blue?style=flat-square&logo=snowflake)  
+![MS Office](https://img.shields.io/badge/-MS%20Office-green?style=flat-square&logo=microsoftoffice)  
+![Linux](https://img.shields.io/badge/-Linux-red?style=flat-square&logo=linux)  
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)  
+![Agile Methodology](https://img.shields.io/badge/-Agile-blue?style=flat-square)  
 
 ### **Database & Big Data**  
+![Cosmos DB](https://img.shields.io/badge/-Cosmos%20DB-blue?style=flat-square&logo=microsoft)  
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)  
+![AWS Redshift](https://img.shields.io/badge/-AWS%20Redshift-orange?style=flat-square&logo=amazonaws)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)  
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-orange?style=flat-square&logo=amazondynamodb)  
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-blue?style=flat-square)  
 ![Hadoop](https://img.shields.io/badge/-Hadoop-yellowgreen?style=flat-square&logo=apachehadoop)  
+![Pyspark](https://img.shields.io/badge/-Pyspark-yellow?style=flat-square)  
 
 ---
 
