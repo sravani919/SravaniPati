@@ -1,103 +1,111 @@
-# Hi there, I'm Sravani Pati 👋  
-![Header](https://img.shields.io/badge/Data%20Scientist%20-%20AI%20Engineer-%2300a4cc?style=for-the-badge&logo=python)
+# Hi there, I'm Sravani Pati 👋
+
+## 🛠 About Me
+Hello! I’m Sravani Pati, a passionate **AI Engineer, Data Scientist, Data Analyst, and Developer** with a relentless drive to excel in AI, machine learning, and data science. I specialize in creating impactful data-driven solutions by combining creativity, analytical rigor, and technical expertise. With hands-on experience in **ML pipelines**, **data engineering**, and **AI-powered systems**, I strive to harness data and technology to solve real-world challenges.
+
+## 🌟 Highlights
+- 🎓 **6th Rank in University** during B.E. (CSE), VTU.
+- 💻 Developed AI and ML systems improving efficiency by up to **60%**.
+- 🌍 Strong foundation in **multimodal content analytics**, **fraud detection**, and **real-time systems**.
 
 ---
 
-## 🛠 **About Me**
-Hello! I’m **Sravani Pati**, a passionate **Data Scientist**, **AI Engineer**, and **Data Analyst** with a creative edge and a relentless drive to excel in **AI and data science**. My journey is fueled by a love for technology and a dedication to harnessing data to create meaningful, impactful solutions.
+## 🚀 Skills and Expertise
 
-With a strong foundation in **machine learning**, **statistical analysis**, and **data engineering**, I am committed to solving real-world challenges. Known for my **analytical rigor** and **innovative approach**, I am eager to contribute to exciting projects while continuing to grow as a data science professional.
-
----
-
-## 📜 **My Education**
-🎓 **Master of Science in Computer Science (Data Science)**  
-**Clemson University** (*2022–2024*) | **GPA**: 3.80/4.00  
-- Courses: Cloud Computing, Deep Learning, Data Visualization, Applied Data Science  
-
-🎓 **Bachelor of Engineering in Computer Science**  
-**Visvesvaraya Technological University** (*2017–2021*) | **GPA**: 8.9/10  
-- **6th University Rank (B.E. CSE)**  
-![Trophy](https://img.shields.io/badge/-University%20Top%206%20Rank-%23f39c12?style=flat-square&logo=graduation-cap)
-
----
-
-## 💻 **Skills**
-### **Languages**  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
-![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=postgresql)  
+### **Programming Languages**  
+Python, JavaScript, R, SQL, No-SQL, Java, C, C++, HTML, CSS
 
 ### **Libraries & Frameworks**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch)  
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=huggingface)
+Hugging Face, TensorFlow, PyTorch, Scikit-learn, Pandas, Flask, Django, Numpy, YOLO
 
-### **Tools**  
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=powerbi)  
-![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)
+### **Tools & Technologies**  
+AWS, Azure, Tableau, Power BI, Snowflake, Hadoop, Pyspark, Git, Agile Methodology
 
----
-
-## 🚀 **Experience**
-
-### 🎯 **AI-Powered Comment Triage System**  
-- 🌟 **Achievement**: Enhanced feedback classification by **25%** using GEMMA-2B and Gemini 1.5 Pro.  
-- 🛠️ **Technology Stack**: AWS, Python, Machine Learning  
-- 🔗 **Outcome**: Reduced manual triage time by 50%, streamlining feedback prioritization.
-
-### 🎯 **Real-Time Object Detection with Voice Output**  
-- 🌟 **Achievement**: Achieved **95% detection accuracy** for visually impaired users using **YOLO** and **pyttsx3**.  
-- 🛠️ **Technology Stack**: YOLO, Python, Pyttsx3  
-- 🔗 **Outcome**: Provided real-time spatial awareness via text-to-speech integration.
-
-### 🎯 **Fraud Detection Models on Azure**  
-- 🌟 **Achievement**: Built fraud detection models achieving **81.29% accuracy** and reducing costs by **60%**.  
-- 🛠️ **Technology Stack**: Azure, Pyspark, SQL  
-- 🔗 **Outcome**: Streamlined workflows and enhanced anomaly detection accuracy.
+### **Database & Big Data**  
+MySQL, MongoDB, DynamoDB, AWS Redshift, Cosmos DB
 
 ---
 
-## 🌐 **Certifications**
-- 📜 **AWS Certified Solutions Architect – Associate**  
-- 📜 **IBM Data Engineering**  
-- 📜 **Microsoft Power BI Analytics**  
-- 📜 **Google Advanced Data Analytics**  
+## 💼 Professional Experience
+
+### **AI Engineer/Researcher**  
+**Human-AI Empowerment Lab, Clemson University** | *May 2024 – Present*  
+- Developed a **comment triage system** using GEMMA-2B and Gemini 1.5 Pro, improving feedback classification by **25%**.
+- Designed scalable AI pipelines on **AWS**, reducing processing time by **40%**.
+- Pioneered multimodal content analytics with Meta-LLaMA 3.2, achieving **92.9% accuracy** for customer insights.
+
+### **Data Scientist & Analyst**  
+**Clemson Engineers for Developing Communities (CEDC)** | *Aug 2023 – May 2024*  
+- Designed the **Fund Navigator Tool** leveraging **NLP** and **machine learning**, achieving **91.67% accuracy**.
+- Conducted disaster resilience analysis using Python and **Power BI**, boosting decision-making efficiency by **30%**.
+- Automated grant data scraping pipelines with BeautifulSoup, increasing throughput by **35%**.
+
+### **Data Scientist**  
+**Nice Hi-Tech Centre** | *Aug 2021 – Jul 2022*  
+- Built fraud detection systems using **Azure** and **Pyspark**, achieving **81.29% accuracy**.
+- Reduced inconsistencies by **95%** with effective feature engineering and hyperparameter tuning.
+- Streamlined workflows using **CI/CD pipelines**, cutting hosting costs by **60%**.
 
 ---
 
-## 📊 **GitHub Stats**
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sravanipati&show_icons=true&theme=radical" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sravanipati&theme=radical" width="48%">
-</div>
+## 📜 Certifications
+- **AWS Certified Solutions Architect – Associate**  
+- **IBM Data Engineering**  
+- **Google Advanced Data Analytics**  
+- **Microsoft Power BI Analytics**  
+- **Deep Learning Specialization (Coursera)**  
 
 ---
 
-## 📁 **More Projects**
-### 🎨 **Portfolio Website**
-- **Description**: A visually engaging portfolio showcasing my projects and achievements.  
-- **Tech Stack**: HTML, CSS, JavaScript  
-- **Outcome**: Demonstrated responsive design and dynamic interactivity.  
+## 🌐 Projects
 
-### 📈 **Data Visualization: Tech Company Breaches**
-- **Description**: Visualized **data breaches** among tech companies using **Tableau** and **D3.js**.  
-- **Tech Stack**: Tableau, Python  
-- **Outcome**: Created engaging visual dashboards for data-driven storytelling.  
+### **AI-Powered Comment Triage System**
+- Developed an AI-powered system leveraging GEMMA-2B to classify feedback with a **95% F1 score**.
+- Reduced manual triage time by **50%**, streamlining comment analysis for e-commerce platforms.
+
+### **Real-Time Object Detection**
+- Built a system using **YOLO** and **pyttsx3** for visually impaired users, achieving a detection accuracy of **95%**.
+- Integrated **text-to-speech** for real-time object notifications.
+
+### **Fraud Detection System**
+- Designed fraud detection models on Azure, improving anomaly detection accuracy by **20%** using AdaBoost and Random Forest.
+
+### **Migraine Classification**
+- Classified migraines using **gene expression data**, achieving **93% accuracy** with the Random Forest model.
+
+### **Fund Navigator Tool**
+- Automated grant classification for underserved communities using Multinomial Naive Bayes and NLP, improving accuracy by **45%**.
+
+### **Advanced GAN Architectures**
+- Explored DCGAN, WGAN, and ACGAN for image generation, implementing models on the CIFAR-10 dataset.
 
 ---
 
-## 🌟 **Fun Fact About Me**
-🎭 I’m an avid dancer and have performed at various events during my school and college days.  
-🐾 My furry friend, Leo, keeps me company during long coding sessions.  
+## 🎓 Education
+
+### **Master of Science in Computer Science (Data Science)**  
+**Clemson University** | GPA: 3.80/4 | *2022 – 2024*  
+Courses: Cloud Computing, Applied Data Science, Deep Learning, Data Visualization  
+
+### **Bachelor of Engineering in Computer Science**  
+**Visvesvaraya Technological University** | GPA: 8.9/10 | *2017 – 2021*  
+- **6th Rank** in University (B.E. CSE).
 
 ---
 
-## 📬 **Let's Connect!**
-<div align="center">
-<a href="https://sravanipati.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=internetexplorer"></a>
-<a href="https://www.linkedin.com/in/sravani09/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:sravanichinni855@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-</div>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sravanipati&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravanipati&layout=compact&theme=radical)
+
+---
+
+## 🌐 Let's Connect!
+- 💼 [Portfolio](https://sravanipati.netlify.app)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sravani09/)
+- 📧 [Email](mailto:sravanichinni855@gmail.com)
+
+---
+
+## 🚀 Fun Fact
+When I'm not working on AI models or data pipelines, you can find me dancing, spending time with my dog Leo, or hiking scenic trails. My father, despite his challenges, remains my biggest inspiration, motivating me to pursue my dreams with determination and resilience.
+
