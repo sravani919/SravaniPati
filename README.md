@@ -1,65 +1,111 @@
 # Hi there, I'm Sravani Pati 👋
 
 ## 🛠 About Me
-I am an **AI Engineer, Data Scientist, Data Analyst, and Developer** passionate about leveraging **AI, Machine Learning, and Data Science** to solve real-world problems. With expertise in building scalable AI models, data pipelines, and deploying ML workflows, I enjoy creating data-driven solutions that drive actionable insights. Currently, I am pursuing a Master’s in Computer Science at **Clemson University** with a focus on Data Science.
+Hello! I’m Sravani Pati, a passionate **AI Engineer, Data Scientist, Data Analyst, and Developer** with a relentless drive to excel in AI, machine learning, and data science. I specialize in creating impactful data-driven solutions by combining creativity, analytical rigor, and technical expertise. With hands-on experience in **ML pipelines**, **data engineering**, and **AI-powered systems**, I strive to harness data and technology to solve real-world challenges.
+
+## 🌟 Highlights
+- 🎓 **6th Rank in University** during B.E. (CSE), VTU.
+- 💻 Developed AI and ML systems improving efficiency by up to **60%**.
+- 🌍 Strong foundation in **multimodal content analytics**, **fraud detection**, and **real-time systems**.
+
+---
 
 ## 🚀 Skills and Expertise
-- **Programming Languages**: Python, JavaScript, R, SQL, No-SQL, Java, C, C++
-- **Libraries/Frameworks**: Hugging Face, TensorFlow, PyTorch, Scikit-learn, Pandas, Flask, Django
-- **Technologies/Tools**: AWS, Azure, Hadoop, Tableau, Power BI, Snowflake, Git, Agile Methodology
-- **Database & Big Data**: MySQL, MongoDB, DynamoDB, AWS Redshift, Pyspark
-- **Data Analytics Tools**: Tableau, Power BI, ETL, Excel, Hadoop, Apache Spark
 
-## 💼 Experience Highlights
-### **Human-AI Empowerment Lab (Clemson University)** | May 2024 – Present  
-**AI Engineer/Researcher | Data Analyst**
-- Developed a multimodal analytics framework achieving **92.9% accuracy** using Meta-LLaMA and Gemini 1.5.
-- Built an AI-powered comment triage system using **GEMMA-2B**, enhancing feedback classification accuracy by **25%**.
-- Engineered scalable data pipelines on **AWS**, reducing processing time by **40%** and boosting decision efficiency by **60%**.
+### **Programming Languages**  
+Python, JavaScript, R, SQL, No-SQL, Java, C, C++, HTML, CSS
 
-### **Clemson Engineers for Developing Communities (CEDC)** | Aug 2023 – May 2024  
-**Data Scientist and Analyst**
-- Designed a **Fund Navigator tool** achieving **91.67% accuracy** with **Multinomial Naive Bayes and NLP**.
-- Conducted data analysis to identify disaster resilience themes, utilizing **Tableau** and **Power BI** for visualization.
-- Automated grant data scraping with **BeautifulSoup** and **Selenium**, improving throughput by **35%**.
+### **Libraries & Frameworks**  
+Hugging Face, TensorFlow, PyTorch, Scikit-learn, Pandas, Flask, Django, Numpy, YOLO
 
-### **Nice Hi-tech Centre** | Aug 2021 – Jul 2022  
-**Data Scientist | Data Analyst**
-- Built fraud detection models on **Azure**, achieving **81.29% accuracy** using **RandomForest** and **AdaBoost**.
-- Created interactive dashboards with **Tableau** to visualize anomalies and streamline decision-making processes.
-- Reduced ML infrastructure costs by **60%** through CI/CD pipelines and scalable deployment.
+### **Tools & Technologies**  
+AWS, Azure, Tableau, Power BI, Snowflake, Hadoop, Pyspark, Git, Agile Methodology
 
-### **Aptech** | Jul 2019 – Oct 2019  
-**Machine Learning Specialist**
-- Deployed ML models on **AWS EC2** for university admission predictions, improving accuracy by **35%**.
-- Automated workflows with **AWS Lambda**, cutting processing time by **70%**.
+### **Database & Big Data**  
+MySQL, MongoDB, DynamoDB, AWS Redshift, Cosmos DB
 
-## 🎓 Education
-- **Clemson University** | **MS in Computer Science (Data Science)** | GPA: 3.80/4 (Aug 2022 - May 2024)  
-   Courses: Cloud Computing, Applied Data Science, Deep Learning, Data Visualization
-- **Visvesvaraya Technological University** | **BE in Computer Science** | GPA: 3.66/4 (Aug 2017 - Aug 2021)  
-   Courses: Data Structures and Algorithms, Machine Learning, Software Engineering, DBMS
+---
+
+## 💼 Professional Experience
+
+### **AI Engineer/Researcher**  
+**Human-AI Empowerment Lab, Clemson University** | *May 2024 – Present*  
+- Developed a **comment triage system** using GEMMA-2B and Gemini 1.5 Pro, improving feedback classification by **25%**.
+- Designed scalable AI pipelines on **AWS**, reducing processing time by **40%**.
+- Pioneered multimodal content analytics with Meta-LLaMA 3.2, achieving **92.9% accuracy** for customer insights.
+
+### **Data Scientist & Analyst**  
+**Clemson Engineers for Developing Communities (CEDC)** | *Aug 2023 – May 2024*  
+- Designed the **Fund Navigator Tool** leveraging **NLP** and **machine learning**, achieving **91.67% accuracy**.
+- Conducted disaster resilience analysis using Python and **Power BI**, boosting decision-making efficiency by **30%**.
+- Automated grant data scraping pipelines with BeautifulSoup, increasing throughput by **35%**.
+
+### **Data Scientist**  
+**Nice Hi-Tech Centre** | *Aug 2021 – Jul 2022*  
+- Built fraud detection systems using **Azure** and **Pyspark**, achieving **81.29% accuracy**.
+- Reduced inconsistencies by **95%** with effective feature engineering and hyperparameter tuning.
+- Streamlined workflows using **CI/CD pipelines**, cutting hosting costs by **60%**.
+
+---
 
 ## 📜 Certifications
-- **AWS Certified Solutions Architect (Associate)** | Oct 2024 – Oct 2027  
-- **Data Analytics with Tableau** (Coursera), **Deep Learning Specialization** (Coursera), **Microsoft Azure AI Fundamentals**
+- **AWS Certified Solutions Architect – Associate**  
+- **IBM Data Engineering**  
+- **Google Advanced Data Analytics**  
+- **Microsoft Power BI Analytics**  
+- **Deep Learning Specialization (Coursera)**  
 
-## 🌟 Projects and Contributions
-- **AI-Powered Comment Triage System**: Enhanced feedback triaging for e-commerce platforms using **GEMMA-2B** and **LLMs**.
-- **Fraud Detection Models**: Deployed optimized ML models on **Azure** to identify anomalies in financial systems.
-- **Fund Navigator Tool**: Developed a grant allocation system leveraging **NLP and QA testing** for better decision-making.
-- **Disaster Resilience Analytics**: Conducted large-scale data analysis on disaster preparedness themes and community engagement using **Tableau** and **Python**.
+---
+
+## 🌐 Projects
+
+### **AI-Powered Comment Triage System**
+- Developed an AI-powered system leveraging GEMMA-2B to classify feedback with a **95% F1 score**.
+- Reduced manual triage time by **50%**, streamlining comment analysis for e-commerce platforms.
+
+### **Real-Time Object Detection**
+- Built a system using **YOLO** and **pyttsx3** for visually impaired users, achieving a detection accuracy of **95%**.
+- Integrated **text-to-speech** for real-time object notifications.
+
+### **Fraud Detection System**
+- Designed fraud detection models on Azure, improving anomaly detection accuracy by **20%** using AdaBoost and Random Forest.
+
+### **Migraine Classification**
+- Classified migraines using **gene expression data**, achieving **93% accuracy** with the Random Forest model.
+
+### **Fund Navigator Tool**
+- Automated grant classification for underserved communities using Multinomial Naive Bayes and NLP, improving accuracy by **45%**.
+
+### **Advanced GAN Architectures**
+- Explored DCGAN, WGAN, and ACGAN for image generation, implementing models on the CIFAR-10 dataset.
+
+---
+
+## 🎓 Education
+
+### **Master of Science in Computer Science (Data Science)**  
+**Clemson University** | GPA: 3.80/4 | *2022 – 2024*  
+Courses: Cloud Computing, Applied Data Science, Deep Learning, Data Visualization  
+
+### **Bachelor of Engineering in Computer Science**  
+**Visvesvaraya Technological University** | GPA: 8.9/10 | *2017 – 2021*  
+- **6th Rank** in University (B.E. CSE).
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sravanipati&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravanipati&layout=compact&theme=radical)
+
+---
 
 ## 🌐 Let's Connect!
 - 💼 [Portfolio](https://sravanipati.netlify.app)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sravani09/)
 - 📧 [Email](mailto:sravanichinni855@gmail.com)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sravani919&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravani919&layout=compact&theme=radical)
-
 ---
 
-## 🚀 Fun Fact About Me
-I enjoy breaking down complex problems into elegant solutions and love exploring new AI technologies. When I'm not coding, you can find me analyzing data trends, creating dashboards, or hiking through scenic trails!
+## 🚀 Fun Fact
+When I'm not working on AI models or data pipelines, you can find me dancing, spending time with my dog Leo, or hiking scenic trails. My father, despite his challenges, remains my biggest inspiration, motivating me to pursue my dreams with determination and resilience.
+
