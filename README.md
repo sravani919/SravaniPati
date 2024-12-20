@@ -98,6 +98,6 @@ With a strong foundation in **machine learning**, **statistical analysis**, and 
 ## 📬 **Let's Connect!**
 <div align="center">
 <a href="https://sravanipati.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=internetexplorer"></a>
-<a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sravani09/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:sravanichinni855@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </div>
